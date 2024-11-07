@@ -1,44 +1,9 @@
-"concursos_militares_brasil": {
-    "Exercito_Brasileiro": {
-      "Escola_de_Sargentos_de_Logistica": {
-        "descricao": "Formação de sargentos",
-        "quantidade_de_votos": 1500
-      },
-      "Academia_Militar_das_Agulhas_Negras": {
-        "descricao": "Formação de oficiais",
-        "quantidade_de_votos": 2000
-      }
-    },
-    "Marinha_do_Brasil": {
-      "Escola_Naval": {
-        "descricao": "Formação de oficiais da Marinha",
-        "quantidade_de_votos": 1800
-      },
-      "Corpo_de_Fuzileiros_Navais": {
-        "descricao": "Concursos para soldados e sargentos",
-        "quantidade_de_votos": 1700
-      }
-    },
-    "Forca_Aerea_Brasileira": {
-      "Academia_da_Forca_Aerea": {
-        "descricao": "Formação de oficiais",
-        "quantidade_de_votos": 1900
-      },
-      "Escola_de_Especialistas_de_Aeronautica": {
-        "descricao": "Formação de sargentos",
-        "quantidade_de_votos": 1600
-      }
-    },
-    "Concursos_para_Praças": {
-      "descricao": "Diversos concursos para ingresso como soldado em cada uma das Forças Armadas",
-      "quantidade_de_votos": 2200
-    }
-  }
+{
+  "Escola_de_Sargentos_de_Logistica": 1500,
+  "Academia_Militar_das_Agulhas_Negras": 2000,
+  "Escola_Naval": 1800,
+  "Corpo_de_Fuzileiros_Navais": 1700,
+  "Academia_da_Forca_Aerea": 1900,
+  "Escola_de_Especialistas_de_Aeronautica": 1600,
+  "Concursos_para_Praças": 2200
 }
-Os valores de "quantidade_de_votos" são fictícios e podem ser ajustados conforme necessário. Se precisar de mais informações ou modificações, é só avisar!
-
-
-
-
-
-Obtenha respostas mais inteligentes, carregue fic
